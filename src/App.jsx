@@ -1,5 +1,9 @@
 function App() {
-  return <div>Hello Ecoomerce</div>;
+  return (
+    <div>
+      <div>Home</div>
+    </div>
+  );
 }
 
 export default App;
