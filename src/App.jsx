@@ -1,3 +1,4 @@
+import Footer from './customer/components/Footer/Footer';
 import Navigation from './customer/components/Navigation/Navigation';
 import Home from './customer/pages/Home';
 
@@ -8,6 +9,8 @@ function App() {
       <div>
         <Home />
       </div>
+
+      <Footer />
     </div>
   );
 }
